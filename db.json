@@ -1,0 +1,144 @@
+{
+  "category": [
+    {
+      "id": 0,
+      "name": "all",
+      "local": "all"
+    },
+    {
+      "id": 1,
+      "name": "laptops",
+      "local": "ноутбуки"
+    },
+    {
+      "id": 2,
+      "name": "smartphones",
+      "local": "смартфони"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "product1",
+      "price": 1000,
+      "category": 1,
+      "img": "prod1.jpg",
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "color": "black",
+      "guarantee": "1 year",
+      "camera": "12 MP",
+      "memory": "128 GB"
+    },
+    {
+      "title": "product2",
+      "price": "2300",
+      "id": 2,
+      "category": 2,
+      "img": "prod2.jpg",
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "color": "white",
+      "guarantee": "3 year",
+      "camera": "50 MP",
+      "memory": "244 GB"
+    },
+    {
+      "id": 3,
+      "title": "product3",
+      "price": 1900,
+      "category": 2,
+      "img": "prod3.jpg",
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "color": "yellow",
+      "guarantee": "2 year",
+      "camera": "89 MP",
+      "memory": "224 GB"
+    },
+    {
+      "title": "product4",
+      "price": "1750",
+      "img": "prod4.jpg",
+      "color": "red",
+      "memory": "128 GB",
+      "category": 2,
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "camera": "15 MP",
+      "guarantee": "1 year",
+      "id": 4
+    },
+    {
+      "title": "product5",
+      "price": "1900",
+      "img": "prod5.jpg",
+      "color": "black",
+      "memory": "64 GB",
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "camera": "12 MP",
+      "guarantee": "2 year",
+      "category": "2",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "product6",
+      "price": 2500,
+      "category": 1,
+      "img": "prod6.jpg",
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "color": "grey",
+      "guarantee": "3 year",
+      "camera": "65 MP",
+      "memory": "350 GB"
+    },
+    {
+      "id": 7,
+      "title": "product7",
+      "price": 2000,
+      "category": 1,
+      "img": "prod7.jpg",
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "color": "white",
+      "guarantee": "1 year",
+      "camera": "12 MP",
+      "memory": "200 GB"
+    },
+    {
+      "id": 8,
+      "title": "product8",
+      "price": 1980,
+      "category": 1,
+      "img": "prod8.jpg",
+      "description": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus sit inventore deserunt ab, temporibus iusto laborum molestias. Quis, consequatur aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, magni!",
+      "color": "black",
+      "guarantee": "1 year",
+      "camera": "12 MP",
+      "memory": "64 GB"
+    }
+  ],
+  "basket": [
+    {
+      "name": "product2",
+      "price": "2300 грн",
+      "id": 1
+    },
+    {
+      "name": "product2",
+      "price": "2300 грн",
+      "id": 2
+    },
+    {
+      "name": "product5",
+      "price": "1900 грн",
+      "id": 3
+    },
+    {
+      "name": "product2",
+      "price": "2300 грн",
+      "id": 4
+    },
+    {
+      "name": "product5",
+      "price": "1900 грн",
+      "id": 5
+    }
+  ]
+}
